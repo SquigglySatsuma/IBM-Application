@@ -3,5 +3,5 @@ applications:
   memory: 128M
   buildpack: sdk-for-nodejs
   services:
-  - Matterhorn
+  - DevOps Introduction
 
