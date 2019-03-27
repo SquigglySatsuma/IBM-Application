@@ -3,4 +3,5 @@ applications:
   memory: 128M
   buildpack: sdk-for-nodejs
   services:
-  - DevOps Introduction-iotf-service
+  - DevOps Introduction
+
