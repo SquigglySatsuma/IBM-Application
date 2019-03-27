@@ -3,5 +3,5 @@ applications:
   memory: 128M
   buildpack: sdk-for-nodejs
   services:
-  - DevOps-Introduction123
+  - DevOps
 
